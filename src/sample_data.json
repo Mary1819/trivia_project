@@ -1,0 +1,42 @@
+[
+  {
+    "question": {
+      "choices": ["40", "42", "50", "56"],
+      "correct_choice_index": 2,
+      "text": "How many stars are in the US flag?"
+    }
+  },
+  {
+    "question": {
+      "choices": ["Horse", "Cheetahs", "Tiger", "Frog"],
+      "correct_choice_index": 1,
+      "text": "Which is the fastest land animal in the world?"
+    }
+  },
+  {
+    "question": {
+      "choices": ["Jupiter", "Uranus", "Mercury", "Saturn"],
+      "correct_choice_index": 3,
+      "text": "Which planet has the most moon?"
+    }
+  },
+  {
+    "question": {
+      "choices": [
+        "Thomas Jeferson",
+        "George Washington",
+        "Abraham Lincoln",
+        "Franklin D. Rossevelt"
+      ],
+      "correct_choice_index": 2,
+      "text": "Who is on the penny?"
+    }
+  },
+  {
+    "question": {
+      "choices": ["False teeth", "Typewriter", "Hearing Aid", "Submarin"],
+      "correct_choice_index": 0,
+      "text": "Which one of these invented first?"
+    }
+  }
+]
